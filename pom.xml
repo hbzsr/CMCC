@@ -7,7 +7,9 @@
     <groupId>com.zsr.cmcc</groupId>
     <artifactId>CMCC</artifactId>
     <version>0.0.1</version>
-    <dependencies></dependencies>
+    <dependencies>
+
+    </dependencies>
 
 
 </project>
